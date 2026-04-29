@@ -1,0 +1,49 @@
+# javascript-Assignment
+
+Gemini said
+JavaScript Assignments - Web Dev II
+This repository contains the source code for two JavaScript assignments completed for the Web Dev II coursework.
+
+Assignment 1: Smart Event Dashboard / To-Do List
+This assignment focuses on core DOM manipulation and front-end interface development using HTML, CSS, and Vanilla JavaScript.
+
+Key Features & Concepts
+Dynamic DOM Manipulation: Ability to dynamically create and delete event/task cards from the interface.
+
+Event Handling: Interactive UI elements leveraging various event listeners.
+
+Responsive Layout: Structured and styled using modern CSS Grid and Flexbox techniques.
+
+Role-Based Routing: User session management and conditional redirection utilizing localStorage.
+
+Assignment 2: Async Weather Tracker
+This assignment explores asynchronous JavaScript, external API integration, and the JavaScript execution context.
+
+Key Features & Concepts
+Asynchronous Data Fetching: Utilizes the Fetch API, along with async/await syntax and Promises, to retrieve real-time weather data.
+
+Robust Error Handling: Implements comprehensive error management using both try...catch blocks and .then()/.catch() chains to handle failed network requests gracefully.
+
+Data Persistence: Uses browser localStorage to save, manage, and display a persistent user search history.
+
+Event Loop Analysis: Includes strategic console logging to demonstrate and analyze the behavior of the JavaScript Event Loop.
+
+Technologies Used
+HTML5
+
+CSS3 (Grid & Flexbox)
+
+Vanilla JavaScript (ES6+)
+
+Web Storage API (localStorage)
+
+Fetch API
+
+Setup and Execution
+Clone the repository to your local machine:
+
+Bash
+git clone https://github.com/yuvrajsinghsoni06-dotcom/javascript-Assignment
+Navigate to the respective assignment folders.
+
+Open the index.html files directly in your preferred web browser to run the applications. No local server or build tools are strictly required.
